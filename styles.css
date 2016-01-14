@@ -1,0 +1,41 @@
+/*esto es para que el tamaño del borde y el padding no afecten el tamaño del
+elemento contenedor, esto lo pueden ver ejemplificado aquí:
+http://codepen.io/Elyager/pen/VYxGQE*/
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  /*background-color: brown;*/
+  border: 2px solid pink;
+}
+
+body {
+  border: 2px solid brown;
+}
+
+div {
+  border: 2px solid yellow;
+}
+
+h1 {
+  border: 2px solid red;
+}
+
+h2 {
+  border: 2px solid green;
+}
+
+h3 {
+  border: 2px solid blue;
+}
+
+a {
+  border: 2px solid cyan;
+}
+
+p {
+  border: 2px solid black;
+}
