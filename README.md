@@ -1,5 +1,3 @@
-#HTML5 and CSS3
+#HTML5 y CSS3
 
-Basic course about HTML5 and CSS3
-
-- index01 - Introducción
+Tutorial básico de HTML5 y CSS3
